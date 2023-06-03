@@ -1,0 +1,41 @@
+#column ul {
+	width: calc(100 + 20px);
+	margin: 0 -10px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#column li {
+	padding: 0 10px 20px;
+}
+
+#column li a,
+#column li a:visited {
+	text-decoration: none;
+	color: #111;
+}
+
+#column li p {
+	font-size: 90%;
+	margin-bottom: 3px;
+}
+
+#column li span {
+	font-size: 80%;
+	display: block;
+}
+
+.column02 li {
+	width: calc(50% - 20px);
+}
+
+ul{
+  padding-left:0;
+}
+
+li{
+  list-style:none;
+}
+
+.resizeimage { width: 75%; }
+.resizeimage img { width: 100%; }
