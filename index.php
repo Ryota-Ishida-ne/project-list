@@ -116,10 +116,7 @@
 
 
 <div class="grid__txt">
-<h3>
-支援募集中のプロジェクト一覧
-
-</h3>
+<h3>支援募集中のプロジェクト一覧</h3>
 <div class="grid">
 <div class="grid__txt--contents">
 <p></p>
