@@ -1,74 +1,8 @@
-<html lang="ja" class="wf-montserrat-n4-active wf-montserrat-n5-active wf-montserrat-n7-active wf-notosansjp-n4-active wf-notosansjp-n7-active wf-notosansjp-n9-active wf-active"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-17JHNVH8QR&amp;l=dataLayer&amp;cx=c"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript" async=""></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-153119336-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-
-		function gtag() {
-			dataLayer.push(arguments);
-		}
-		gtag('js', new Date());
-
-		gtag('config', 'UA-153119336-1');
-	</script>
-	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="keywords" content="PBP, オーガニックコットン, SDGｓ, エシカル, サステナブル">
-	<meta property="og:title" content="PBP COTTON FOUNDATION　オーガニックコットン栽培によるSDGs型社会の構築をサポート">
-	<meta property="og:type" content="website">
-	<meta property="og:description" content="サステナブルな循環型社会を、みんなの力で | PEACE BY PEACE COTTON PROJECT">
-	<meta property="og:url" content="https://pbpcotton.org/">
-	<meta property="og:image" content="https://pbpcotton.org/img/pbp_ogimg_V1811.jpg">
-	<meta property="og:site_name" content="PBP COTTON FOUNDATION">
-	<meta property="og:locale" content="ja_JP">
-	<meta property="fb:admins" content="425969064112061">
-	<meta name="twitter:card" content="summary">
-
-	<link rel="icon" type="image/png" href="https://pbpcotton.org/img/favicon.png">
-	<link rel="apple-touch-icon" href="https://www.pbpcotton.org/wp-content/themes/pbp2022/assets/images/apple-touch-icon.png">
-	<link rel="icon" type="image/png" href="https://www.pbpcotton.org/wp-content/themes/pbp2022/assets/images/android-chrome-192x192">
-	<title>Stitch By Stitch | PBP COTTON FOUNDATION　オーガニックコットン栽培によるSDGs型社会の構築をサポート</title>
-
-<!-- All in One SEO Pack 2.9.1 by Michael Torbert of Semper Fi Web Design[1614,1698] -->
-<link rel="canonical" href="https://www.pbpcotton.org/stitch-by-stitch/">
-<!-- /all in one seo pack -->
-<link rel="dns-prefetch" href="//ajax.googleapis.com">
-<link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="bogo-css" href="https://www.pbpcotton.org/wp-content/plugins/bogo/includes/css/style.css?ver=3.2.1" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="https://www.pbpcotton.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.5" type="text/css" media="all">
-<link rel="stylesheet" id="wp-pagenavi-css" href="https://www.pbpcotton.org/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
-<link rel="stylesheet" id="dlm-frontend-css" href="https://www.pbpcotton.org/wp-content/plugins/download-monitor/assets/css/frontend.css?ver=4.8.22" type="text/css" media="all">
-<link rel="stylesheet" id="normalize-css" href="https://www.pbpcotton.org/wp-content/themes/pbp2022/assets/css/normalize.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="style-css" href="https://www.pbpcotton.org/wp-content/themes/pbp2022/style.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="page-style-css" href="https://www.pbpcotton.org/wp-content/themes/pbp2022/assets/css/page.css?ver=1.0.2" type="text/css" media="all">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700%7CNoto+Sans+JP:400,700,900" media="all"><script type="text/javascript" src="https://www.pbpcotton.org/wp-content/themes/pbp2022/assets/js/font.js?ver=1.0.0"></script>
-<link rel="stylesheet" href="css/style.css"
-<link rel="https://api.w.org/" href="https://www.pbpcotton.org/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.pbpcotton.org/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.pbpcotton.org/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.8.22">
-<link rel="shortlink" href="https://www.pbpcotton.org/?p=2947">
-<link rel="alternate" type="application/json+oembed" href="https://www.pbpcotton.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.pbpcotton.org%2Fstitch-by-stitch%2F">
-<link rel="alternate" type="text/xml+oembed" href="https://www.pbpcotton.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.pbpcotton.org%2Fstitch-by-stitch%2F&amp;format=xml">
-<link rel="alternate" hreflang="en-US" href="https://www.pbpcotton.org/en/stitch-by-stitch/">
-<link rel="alternate" hreflang="ja" href="https://www.pbpcotton.org/stitch-by-stitch/">
-	<title>Stitch By Stitch – PBP COTTON FOUNDATION　オーガニックコットン栽培によるSDGs型社会の構築をサポート</title>
-
-<!-- デバッグ警告: All in One SEO Pack のメタデータが wp_head のフィルターから再読込されています。2回読み込まれています ! -->
-<link rel="dns-prefetch" href="//ajax.googleapis.com">
-<link rel="dns-prefetch" href="//s.w.org">
-<script type="text/javascript" src="https://www.pbpcotton.org/wp-includes/js/wp-embed.min.js?ver=4.8.22"></script>
-<link rel="https://api.w.org/" href="https://www.pbpcotton.org/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.pbpcotton.org/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.pbpcotton.org/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.8.22">
-<link rel="shortlink" href="https://www.pbpcotton.org/?p=2947">
-<link rel="alternate" type="application/json+oembed" href="https://www.pbpcotton.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.pbpcotton.org%2Fstitch-by-stitch%2F">
-<link rel="alternate" type="text/xml+oembed" href="https://www.pbpcotton.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.pbpcotton.org%2Fstitch-by-stitch%2F&amp;format=xml">
-<link rel="alternate" hreflang="en-US" href="https://www.pbpcotton.org/en/stitch-by-stitch/">
-<link rel="alternate" hreflang="ja" href="https://www.pbpcotton.org/stitch-by-stitch/">
-</head>
+<!DOCTYPE html>
+<html lang="ja" class="wf-montserrat-n4-active wf-montserrat-n5-active wf-montserrat-n7-active wf-notosansjp-n4-active wf-notosansjp-n7-active wf-notosansjp-n9-active wf-active">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta charset="UTF-8">
+    </head>
 
 <body id="top" class="page-template-default page page-id-2947 ja">
 	<header class="header">
@@ -163,49 +97,58 @@
 			</nav>
 		</div>
 	</header>
-
-<!-- パンくずリスト　-->
+	
 <div class="container">
   <div class="breadcrumb" typeof="BreadcrumbList" vocab="https://schema.org/">
     <!-- Breadcrumb NavXT 5.2.0 -->
 <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to ホーム." href="https://www.pbpcotton.org" class="home"><span property="name">ホーム</span></a></span> &gt; <span property="itemListElement" typeof="ListItem"><span property="name" class="post post-page current-item">Stitch By Stitch</span></span>  </div>
 </div>
 
-<!-- バナー画像　-->
-<div class="main-img"><img src="images/image1.jpg" alt=""></div>
+<div class="main-img"><img src="https://www.pbpcotton.org/wp-content/themes/pbp2022/assets/images/img_main-sbs.jpg" alt=""></div>
 
-<!-- ページタイトル　-->
 <main class="handover">
   <div class="container">
-	<h2 class="block-title">
-	支援募集中のプロジェクト　<span>OTHER PROJECTS</span>
-	</h2>
 
-<!--大項目デザイン修正-->
-<div class="grid">
+<h2 class="block-title">
+支援募集中のプロジェクト
+<span>OTHER PROJECTS</span>
+</h2>
+
+
 <div class="grid__txt">
-<h3>【現在支援募集のプロジェクト一覧】</h3>
+<h3>
+支援募集中のプロジェクト一覧
 
-<!-- 概要部分　-->
-<div class="grid__txt--contents"></div>
+</h3>
+<div class="grid">
+<div class="grid__txt--contents">
+<p></p>
 
+<p>綿花栽培は、収穫が年一回のため、閑散期の農家の収入向上をどうしていくかは非常に大きな課題です。<br>
+また、インドの農村では女性の立場がまだまだ低い状態で、彼女たち自身で新たな未来をつくっていけるように支援することも大きな課題です。</p>
 </div>
 </div>
 
-<div id="column" class="column02">
 <div class="grid__img">
-	<h3></h3>
-	<ul>
-	<li><a href=""><img src="images/image2.jpg" /><p>発生日：yyyy/mm/dd</p><br><p>ここにプロジェクト概要文章を入れます。</p></a></li>
-	<li><a href=""><img src="images/image3.jpg" /><p>発生日：yyyy/mm/dd</p><br><p>ここにプロジェクト概要文章を入れます。</p></a></li>
-	</ul>
+<div>
+<img src="images/image2.jpg" alt="">
+</div>
 </div>
 </div>
 
-<!--概要文章をアプリからコピー-->
+<div class="grid two">
+<div class="grid__txt">
+<p>PBPでは、これらの課題をファッションの力で乗り越えていくため、刺繍アーティスト：二宮佐和子さんの協力のもと、農村女性に刺繍の技術を教える活動を行なっています。<br>
+インドと日本で指導書やお手紙を通じて、ひとりひとりに細かくステッチのコツを指導。色づかいや糸ボリュームについても徹底的に学んでいます。</p>
 
+<p>刺繍を通じて付加価値の高い最終製品加工を村で行えるようになる事で、いつの日か世界中のブランドから仕事の依頼が来るように、今日も彼女たちはチクチクと刺繍の練習をしているのです。</p>
+</div>
 
-
+<div class="grid__img">
+<img src="images/image3.jpg" alt="">
+</div>
+</div>
+      </div>
 
   </main>
 
