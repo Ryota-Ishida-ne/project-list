@@ -1,47 +1,16 @@
 #column ul {
-	width: auto;
-	margin: 0 0px;
+	width: 100%;
+    height: auto;
 	display: flex;
 	flex-wrap: wrap;
     list-style:none;
-    
-}
+    margin: 2%;
+    padding: 3%;
 
-#column li {
-	padding: 0 10px 0px;
-    float: left;
-    
-}
-
-#column li a,
-#column li a:visited {
-	text-decoration: none;
-	color: #111111;
-}
-
-#column li p {
-	font-size: 90%;
-	margin-bottom: 3px;
-    
-}
-
-#column li span {
-	font-size: 100%;
-	display: block;
 }
 
 .column02 li {
 	width: calc(50% - 5px);
-}
-  
-li{
-    list-style:none;
-}
-
-    
-.main{
-    display: flex;
-    flex-wrap: wrap;
 }
 
 h3{
@@ -60,30 +29,6 @@ h3{
     border-radius: 5px;
     padding: 5px 15px 5px;
 }
-
-.title1{
-    color: rgb(52, 57, 66);
-    width: auto;
-}
-
-
-.title2{
-    color: rgb(252, 6, 6);
-    width: auto;
-}
-
-.textcss001{
-    color: rgb(52, 57, 66);
-    font-weight: 900;
-    width: auto;
-}
-
-.textcss002{
-    color: rgb(254, 3, 3);
-    font-weight: 900;
-    width: auto;
-}
-
 
 
 .progBar{
@@ -167,20 +112,57 @@ h3{
     }
  }
 
-.inline-block li{
+.project-block li{
     width: auto;
     float: left;
-
 }
 
 .btn {
     width: 70%;
     background: #ba874de6;
-    padding: 3%;
+    padding: 2%;
+    font-size: 1.5rem;
     }
 
 .btn p {
     color: #fff;
 }
 
+
+
+
+
 /*レイアウト確認用*/
+dl {
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    text-align: left;
+}
+ 
+.container dd {
+    /* インライン要素に変更すれば横並びにできる */
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: end;
+    width: auto;
+    margin: 0% 6% 0% 6%;    
+}
+
+.fund_goal{
+    color: #f61f1f;
+}
+
+.fund_item{
+    text-align: left;
+    font-size: 1.5vw;
+}
+
+.fund_number{
+    font-size: 3.5vw;
+}
+
+.title{
+    font-size: 1.5vw;
+}
