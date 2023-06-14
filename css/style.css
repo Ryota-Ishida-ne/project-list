@@ -128,6 +128,13 @@ h3{
     color: #fff;
 }
 
+.btn:hover {
+    transform: translateY(2px);
+}
+      
+.btn:active {
+    transform: translateY(5px);
+}
 
 
 
@@ -165,4 +172,6 @@ dl {
 
 .title{
     font-size: 1.5vw;
+
+    margin-right: 6%;
 }
